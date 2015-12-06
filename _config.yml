@@ -1,7 +1,7 @@
 name: craigshaynak
 favicon: null
-layout_spectrum: 0.7827246831730008
-typography_spectrum: 0.5666833291761577
+layout_spectrum: 1
+typography_spectrum: 0.37208
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#ffffff'
+    - '#0e3077'
+    - '#744300'
+    - '#ffb996'
+    - '#000000'
   brandStrength: 0.1784805015195161
-  lightness: 0.28179485304281116
-  saturation: 0.08985394262708724
-  rhythmicContrast: 0.7934127794578671
+  lightness: 0.0625
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
